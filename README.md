@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jessica</h1>
-<h3 align="center">A passionate learner ..... and a day will come that I will be a master what i learn tody </h3>
+<h3 align="center">A passionate learner ..... and a day will come that I will be a Master what I learn today </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessica747&label=Profile%20views&color=0e75b6&style=flat" alt="jessica747" /> </p>
 
